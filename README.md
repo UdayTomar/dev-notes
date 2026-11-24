@@ -55,6 +55,7 @@ dev-notes/
 
 These are learning notes, not a replacement for official documentation. If you find an error, open an issue or pull request with the page, section, and a reproducible correction. Check [official resources](Resources/useful-links.md) for current behavior.
 
-## License
+##
+Made by Uday Tomar
 
-Written notes are released under the MIT License. External documentation, trademarks, and linked resources remain the property of their owners.
+Learning, building, and documenting along the way.
